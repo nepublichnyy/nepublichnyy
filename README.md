@@ -5,6 +5,7 @@
 - Telegram: [@ru55kiy](t.me/ru55kiy)
 - 🤖 Telegram bot:
 - Bot for checking citizens of Russia, Belarus, Ukraine and Kazakhstan: [@ru55kiy_bot](t.me/ru55kiy_bot)
+- Bot for monitoring articles from various news agencies: [@nepublichnyy_bot](t.me/nepublichnyy_bot)
 - 📢 Telegram Channel:
 - Stay updated by following my channel: [@nepublichnyy](t.me/nepublichnyy)
 
